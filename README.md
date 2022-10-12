@@ -8,8 +8,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.go`
 - 🌱 Learning all about **Open Source**, **Web Development** & **Dev OPS**
 - 💬 Ping me about **Freelancing**, **javascript**, **typescript**, **development**, **System Design** & **Databases**
-- 📫 Reach me: [tarunsingh.dev](https://tarunsingh.dev)
-
+- 📫 Reach me: [tarunsingh.dev](https://tarunsingh.dev), [LinkedIn](https://linkedin.com/tarun7singh)
 
 <div style="display: flex; width: 100%">
   <img src ="https://github-readme-stats.vercel.app/api?username=tarun7singh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=starts&bg_color=00000000">
