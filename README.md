@@ -9,7 +9,3 @@
 - 🌱 Learning all about **Open Source**, **Web Development** & **Dev OPS**
 - 💬 Ping me about **Freelancing**, **javascript**, **typescript**, **development**, **System Design** & **Databases**
 - 📫 Reach me: [tarunsingh.dev](https://tarunsingh.dev), [LinkedIn](https://linkedin.com/tarun7singh)
-
-<div style="display: flex; width: 100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarun7singh&theme=darcula&hide_border=true&background=FFFFFF00">
-</div>
