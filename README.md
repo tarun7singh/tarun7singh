@@ -9,7 +9,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.go`
 - 🌱 Learning all about **Open Source**, **Web Development** & **Dev OPS**
 - 💬 Ping me about **Freelancing**, **javascript**, **typescript**, **development**, **System Design** & **Databases**
-- 📫 Reach me: [tarunsingh.dev](https://tarunsingh.dev), [LinkedIn](https://linkedin.com/tarun7singh)
+- 📫 Reach me: [tarunsingh.dev](https://tarunsingh.dev), [LinkedIn](https://linkedin.com/in/tarun7singh), [hello@tarunsingh.dev](mailto:hello@tarunsingh.dev)
 <!--END_SECTION:bio-->
 
 ##### 👨🏻‍💻 Open Source Contributions
