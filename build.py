@@ -13,7 +13,7 @@ def replace(content, section, chunk, inline=False):
 
 def fetch(section):
     filtered = []
-    res = requests.get("https://pub-8a6db429542c44318cca163b0371a391.r2.dev/portfolio-assets/tarun-pull-requests.json")
+    res = requests.get("https://data.tarunsingh.dev/portfolio-assets/tarun-pull-requests.json")
     response = json.loads(res.text)
     for key in response.keys():
         # only append if key doesn't start with 'tarun7singh'
