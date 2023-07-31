@@ -16,6 +16,7 @@
 
 <!--START_SECTION:open-source-->
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+  * [Status page certificate expiry](https://github.com/louislam/uptime-kuma/pull/3357) 
   * [Added fix to remove children when type changed](https://github.com/louislam/uptime-kuma/pull/3311) 
   * [Added MQTT Monitor type](https://github.com/louislam/uptime-kuma/pull/875) 
   * [Adds ClickSendSMS notification provider](https://github.com/louislam/uptime-kuma/pull/798) 
