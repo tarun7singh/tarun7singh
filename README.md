@@ -28,8 +28,5 @@
 * [matthewsamuel95/ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms)
   * [Fixed visual typo](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms/pull/311) 
   * [Capitalized the table of contents](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms/pull/307) 
-* [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  * [fix(seed): Squashed a bug from Disable an element using Jquery](https://github.com/freeCodeCamp/freeCodeCamp/pull/16578) 
-  * [fix(URLs): Changed protocol relative URLs to HTTPS URLs](https://github.com/freeCodeCamp/freeCodeCamp/pull/16573) 
 
 <!--END_SECTION:open-source-->
